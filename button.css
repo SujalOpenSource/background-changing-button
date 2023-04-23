@@ -1,0 +1,28 @@
+.btn
+{
+    padding: 30px 53px;
+    margin-bottom: 7px;
+    background: var(--color);
+    cursor: pointer;
+    border-radius: 20px;
+    border: 3px solid #fff;
+   
+    
+    
+}
+.buttons
+{
+   
+    justify-content: center;
+    margin: 300px;
+   
+
+}
+.btn-1 {--color:aqua;}
+.btn-2 {--color:green;}
+.btn-3 {--color:blue;}
+.btn-4 {--color:yellow;}
+.btn-5 {--color:brown;}
+.btn-6 {--color:orange;}
+.btn-7 {--color:purple;}
+.btn-8 {--color:black;}
